@@ -9,6 +9,12 @@
  * 系級：科技系三年級
 ## 課程筆記區
 ### Week 1
+ #### [Anaconda](https://www.anaconda.com/products/distribution) <br>
+ 
+ #### [GitHub](https://github.com/) <br>
+  1. 建立帳號
+  2. 建立Repositories
+  3. 撰寫ReadMe [(書寫語法)](https://github.com/othree/markdown-syntax-zhtw/blob/master/syntax.md#overview) <br>
 
 ## 作業連結區
 
