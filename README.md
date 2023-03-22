@@ -17,5 +17,6 @@
   3. 撰寫ReadMe [(書寫語法)](https://github.com/othree/markdown-syntax-zhtw/blob/master/syntax.md#overview) <br>
 
 ## 作業連結區
+[HW1](https://github.com/yuhao0711/PL/tree/main/HW1)
 
 ## 專題連結區
