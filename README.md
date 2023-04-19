@@ -19,5 +19,6 @@
 ## 作業連結區
 - [HW1](https://github.com/yuhao0711/PL/blob/main/HW1/HW1.ipynb)
 動漫人氣排名與類型分析
-
+- [HW2](https://github.com/yuhao0711/PL/blob/main/HW2/HW2.ipynb)
+動漫人氣排名圖表分析
 ## 專題連結區
