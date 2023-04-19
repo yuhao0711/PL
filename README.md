@@ -21,4 +21,6 @@
 動漫人氣排名與類型分析
 - [HW2](https://github.com/yuhao0711/PL/blob/main/HW2/HW2.ipynb)
 動漫人氣排名圖表分析
+- [HW3](https://github.com/yuhao0711/PL/blob/main/HW3/HW3.ipynb)
+網路小說爬蟲及資料正則化
 ## 專題連結區
