@@ -23,7 +23,7 @@
 動漫人氣排名圖表分析
 - [HW3](https://github.com/yuhao0711/PL/blob/main/HW3/HW3.ipynb)
 網路小說爬蟲及資料正則化
-  ##### [csv](https://github.com/yuhao0711/PL/blob/main/HW3/Novel.csv) <br>
-  ##### [json](https://github.com/yuhao0711/PL/blob/main/HW3/novel.json) <br>
-  ##### [json(正則化)](https://github.com/yuhao0711/PL/blob/main/HW3/novel.json) <br>
+  ##### [csv](https://github.com/yuhao0711/PL/blob/main/HW3/Novel.csv)
+  ##### [json](https://github.com/yuhao0711/PL/blob/main/HW3/novel.json)
+  ##### [json(正則化)](https://github.com/yuhao0711/PL/blob/main/HW3/novel.json)
 ## 專題連結區
