@@ -15,10 +15,16 @@
   1. 建立帳號
   2. 建立Repositories
   3. 撰寫ReadMe [(書寫語法)](https://github.com/othree/markdown-syntax-zhtw/blob/master/syntax.md#overview) <br>
-
+ 
 ## 作業連結區
 - [HW1](https://github.com/yuhao0711/PL/blob/main/HW1/HW1.ipynb)
 動漫人氣排名與類型分析
 - [HW2](https://github.com/yuhao0711/PL/blob/main/HW2/HW2.ipynb)
 動漫人氣排名圖表分析
+- [HW3](https://github.com/yuhao0711/PL/blob/main/HW3/HW3.ipynb)
+網路小說爬蟲及資料正則化<br>
+   [csv](https://github.com/yuhao0711/PL/blob/main/HW3/Novel.csv)<br>
+   [json](https://github.com/yuhao0711/PL/blob/main/HW3/novel.json)<br>
+   [json](https://github.com/yuhao0711/PL/blob/main/HW3/novel.json)(正則化)<br>
+- HW4
 ## 專題連結區
