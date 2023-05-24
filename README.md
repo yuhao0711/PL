@@ -28,4 +28,6 @@
    [json](https://github.com/yuhao0711/PL/blob/main/HW3/novel.json)(正則化)<br>
 - [HW4](https://github.com/yuhao0711/PL/blob/main/HW4/HW4.ipynb)
 延續作業三，進行小說內文用字視覺化分析
+- [HW5](https://github.com/yuhao0711/PL/blob/main/HW5/HW5.ipynb)
+分析紅樓夢前80回及後40回作者用字習慣，嘗試辨識是否為同一人
 ## 專題連結區
