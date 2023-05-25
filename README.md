@@ -31,3 +31,6 @@
 - [HW5](https://github.com/yuhao0711/PL/blob/main/HW5/HW5.ipynb)
 分析紅樓夢前80回及後40回作者用字習慣，嘗試辨識是否為同一人
 ## 專題連結區
+- [進度回報1](https://docs.google.com/presentation/d/19gCC6C8e_Rg4asEE6wTL2w3I1oX0xpJAoRJ_Q2CfJFQ/edit#slide=id.g24a09b16915_0_711)
+進度:多頁標題爬取並轉換json，成功進行限定電影查詢
+下一步:文章評論擷取/好評率統計/關鍵詞剖析
